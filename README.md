@@ -1,4 +1,4 @@
 # kvcAndKvo
 KVC &amp; KVO using on iOS
 
-Key-value coding(KVC)和key-value observing(KVO) is improt in iOS development
+Key-value coding(KVC) and key-value observing(KVO) is improt in iOS development
